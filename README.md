@@ -27,8 +27,12 @@ README
     * 粗粒度情感分析
     * 细粒度情感分析
 
-### 分词
+
+## 分词
 -----------
+### 基于规则的自动分词算法
+
+
 ***、---、___可以显示横线效果
 
 ***
@@ -104,7 +108,7 @@ ___
 
     斜体、粗体、删除线可混合使用
 
-图片
+命名实体识别
 ------
 基本格式：
 ```
@@ -130,7 +134,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```
 
-链接
+句法分析
 ------
 ### 链接外部URL
 
